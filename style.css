@@ -1,0 +1,30 @@
+#app
+{
+   border-color: slategrey;
+   border-radius: 15px;
+   background-color: rgb(161, 187, 214);
+   height: 200px;
+   width:500px;
+   margin-left: 20%;
+   margin-top:5%;
+   padding-left: 12%;
+   padding-top: 5%;
+   font-size: 25px;
+   font-family: 'Didact Gothic', sans-serif;
+}
+#btn1
+{
+    padding: 15px 32px;
+    font-size: 15px;
+    background-color: rgb(1, 20, 61);
+    color: rgb(247, 247, 248);
+    border-radius: 15px;
+    margin-top: 45px;
+    margin-left: 95px;
+    font-family: 'Didact Gothic', sans-serif;
+}
+#myInput
+{
+    margin-left: 5px;
+    border-radius: 15px;
+}
